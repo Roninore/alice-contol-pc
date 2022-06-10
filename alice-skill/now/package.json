@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "^9.1.0",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
